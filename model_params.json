@@ -1,0 +1,12 @@
+{"n_layers":12,
+"out_feats":1,
+"hidden_feats":128,
+"aggregator_type":"sum",
+"weighted_edges":"True",
+"fc_bias":"True",
+"norm":"None",
+"fc_activation":"LeakyReLU",
+"out_activation":"Tanh",
+"lr":"None",
+"weight_decay":"None",
+"initialization":"kaiming"}
