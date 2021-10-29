@@ -1,5 +1,7 @@
 Dist2Cycle : code, scripts & showcase
 =====================================
+Paper: https://arxiv.org/abs/2110.15182
+
 (preceded with $ are linux terminal commands)
 
 Folders:
